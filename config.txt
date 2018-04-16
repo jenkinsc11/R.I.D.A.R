@@ -1,0 +1,10 @@
+reporter_ion_1: 114.1106
+reporter_ion_2: 115.1077
+reporter_ion_3: 116.1110
+reporter_ion_4: 117.1144
+tolerance: 0.002
+control_ion: 117.1144
+fold_change: 2
+
+
+
