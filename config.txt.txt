@@ -1,0 +1,8 @@
+tolerance:0.002
+control_ion:117.11440
+fold_change:2
+$$$ Place Reporter Ions Below This Line $$$
+114.11060
+115.10770
+116.11100
+117.11440
