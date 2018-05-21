@@ -32,7 +32,7 @@ spectra_counter = 0
 
 ions = []
 
-with open('config_tester.txt', 'r') as c:
+with open('config.txt', 'r') as c:
         line = c.readlines()
         tolerance = float(line[0][10:-1])
         control_label = float(line[1][12:-1])
