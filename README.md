@@ -1,4 +1,5 @@
-# Reporter Ion Filter for Proteomics
+## R.I.D.A.R
+# Reporter Ion Data Analysis Reduction 
 This code filters through all of the MS2 scans of an MGF file to identify the presence of reporter ions in each scan. If the reporter ions are present then a fold change identification is run. If the fold change is higher than the set threshold, the entire MS2 will be written to a new MGF file. This process decreases the search time and file size when compared to the original file while retaining the most important aspects of the data. This ensures that scans that cannot be quantified are removed and the overall file is de-cluttered. This script is extemely flexible in you as the user are able to use this filtering method on any isobaric labeling technique with exact mass labels.
 
 # Running the Script
